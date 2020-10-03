@@ -1,0 +1,30 @@
+title: ____Mehrapi____
+description: IT Auszubildender, Anwendungsentwicklung
+site_title: '@mehrapi'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: Mehrapi
+# blog_url: https://www.nagekar.com
+email: xxxxxx@protonmail.com
+# keybase_username: abhn
+twitter_username: mehrapi
+
+
+# absolute or relative
+profile_picture: assets/images/Pic_092020.jpg
+
+# Google Analytics ID
+google_analytics: UA-179020521-1
+
+gallery: assets/album/
+
+# plugins
+
+
+
+  
+
