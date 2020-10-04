@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             title: 'Math Flashkarte',
             demo: false,
             technologies: ['Java', 'GUI App'],
-            description: "Mathflashkarte ist eine Applikation, mit der man seine Math Fahigkeiten trainieren kann. Dieses Projekt ist noch nicht fertig.",
+            description: "Mathflashkarte ist eine Applikation, mit der man seine Addition, Multiplikation, Division und Substruktion Fähigkeiten trainieren kann. Dieses Projekt ist noch nicht fertig.",
             categories: ['java']
         },
         
