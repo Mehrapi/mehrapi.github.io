@@ -26,7 +26,7 @@ function blog_posts() {
             title: ' Meine Erfahrung mit Open Source',
         },
         {
-            url: 'https://sieblogt.github.io/posts/Alles/2020-01-01-Wie%20ich%20in%20meiner%20Jekyll%20Webseite%20Fotogalerie%20gemacht%20habe/',
+            url: 'https://sieblogt.github.io/posts/Alles/2020-10-01-Wie%20ich%20in%20meiner%20Jekyll%20Webseite%20Fotogalerie%20erstellt%20habe/',
             title: ' Wie ich auf meiner Jekyll Webseite Fotogalerie erstellt habe',
         },
         {
