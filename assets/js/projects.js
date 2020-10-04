@@ -49,18 +49,18 @@ let render_projects = (slug) => {
             categories: ['featured', 'java']
         },
         
-    /*
+    
         {
-            image: 'assets/images/p1.PNG',
-            link: 'https://github.com/Mehrapi/Kennwort_Pruefer',
-            title: 'Kennwort Prüfer',
+            image: 'assets/images/Mathflashkarte.PNG',
+            link: 'https://github.com/Mehrapi/MathFlashkarte',
+            title: 'Math Flashkarte',
             demo: false,
             technologies: ['Java', 'GUI App'],
-            description: "Eine einfache App, mit der man ein Kennwort eingibt. Dannach bekommt man eine Meldung, je nach das eingegebene Kennwort.",
+            description: "Mathflashkarte ist eine Applikation, mit der man seine Math Fahigkeiten trainieren kann. Es geht nur um einfache Berechnung mit Addition, Substruktion, Multiplikation und Division.",
             categories: ['java']
         },
         
-        
+      /*  
        {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
