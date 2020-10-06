@@ -8,8 +8,8 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: Mehrapi
-# blog_url: https://www.nagekar.com
-email: asx@mail.com
+blog_url: https://sieblogt.github.io
+email: mehrapi@protonmail.com
 # keybase_username: abhn
 twitter_username: mehrapi
 
