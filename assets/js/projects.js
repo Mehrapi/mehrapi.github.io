@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Ersparnis Assistant',
             demo: false,
             technologies: ['Java', 'GUI App'],
-            description: "Diese App berechnet der Schlussado oder die Anzahl der Monate nach eingabe von den anderen Daten.",
+            description: "Diese App berechnet der Schlusssaldo oder die Anzahl der Monate nach eingabe von den anderen Daten.",
             categories: ['featured', 'java']
         },
         {
