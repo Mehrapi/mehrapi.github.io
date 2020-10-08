@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Ersparnis Assistant',
             demo: false,
             technologies: ['Java', 'GUI App'],
-            description: "Diese App berechnet den Schlussado oder die Anzahl der Monate nach eingabe von den anderen Daten.",
+            description: "Diese App berechnet der Schlussado oder die Anzahl der Monate nach eingabe von den anderen Daten.",
             categories: ['featured', 'java']
         },
         {
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             title: 'Flickr Suchmachine',
             demo: false,
             technologies: ['HTML', 'CSS', 'JQuery'],
-            description: " Mit Flickr Suchmachine bekommt man interessanten Zuffals-Bilder aus Flickr nach eingabe von ein Stichwort.",
+            description: " Mit Flickr Suchmachine bekommt man interessanten Zuffals-Bilder aus Flickr nach eingabe von einem Stichwort.",
             categories: ['featured', 'webapp']
         },
         
