@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'Notizen',
             demo: false,
             technologies: ['HTML', 'CSS', 'JQuery'],
-            description: " Notizen organisieren und speichern Notizen, eine Memo Hifle. Die App ist noch nicht fertig, ich arbeite noch daran.",
+            description: " Notizen organisiert und speichert Notizen, eine Memo Hifle. Die App ist noch nicht fertig, ich arbeite noch daran.",
             categories: ['featured', 'webapp']
         },
        
