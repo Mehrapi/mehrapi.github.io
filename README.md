@@ -10,4 +10,4 @@
 
 
 
-*(Vorlage geForkt von: https://github.com/abhn/portfolio)*
+*(Fork von: https://github.com/abhn/portfolio)*
