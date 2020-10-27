@@ -22,7 +22,7 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://sieblogt.github.io/posts/Alles/2020-10-27-Hacktoberfest%202020,%20meine%20erste%20erfahrung%20mit%20Open%20Source/',
+            url: 'https://sieblogt.github.io/posts/Alles/2020-10-27-Hacktoberfest%202020,%20meine%20erste%20Erfahrung%20mit%20Open%20Source/',
             title: ' Hacktoberfest 2020, meine erste Erfahrung mit Open Source',
         },
         {
