@@ -22,24 +22,24 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://sieblogt.github.io/posts/Alles/2020-09-30-Meine%20Erfahrung%20mit%20Open%20Source/',
-            title: ' Meine Erfahrung mit Open Source',
+            url: 'https://sieblogt.github.io/posts/Alles/2020-10-27-Hacktoberfest%202020,%20meine%20erste%20erfahrung%20mit%20Open%20Source/',
+            title: ' Hacktoberfest 2020, meine erste Erfahrung mit Open Source',
         },
         {
             url: 'https://sieblogt.github.io/posts/Alles/2020-10-01-Wie%20ich%20in%20meiner%20Jekyll%20Webseite%20Fotogalerie%20erstellt%20habe/',
             title: ' Wie ich auf meiner Jekyll Webseite Fotogalerie erstellt habe',
         },
         {
-            url: 'https://sieblogt.github.io/posts/Learning/2020-08-17-Wie%20ich%20Programmieren%20lerne/',
-            title: 'Wie ich Programmieren lerne'
+            url: 'https://sieblogt.github.io/directory/',
+            title: ' Siehe meine Blogposts'
         },
         {
-            url: 'https://sieblogt.github.io/posts/Coding/2020-05-20-Java%20lernen/',
-            title: 'Java Lernen'
+            url: 'https://sieblogt.github.io/directory/',
+            title: ''
         },
        {
             url: 'https://sieblogt.github.io/directory/',
-            title: 'Siehe meine Blogposts'
+            title: ''
         },
     ];
 
