@@ -37,10 +37,7 @@ function blog_posts() {
             url: 'https://sieblogt.github.io/directory/',
             title: ''
         },
-       {
-            url: 'https://sieblogt.github.io/directory/',
-            title: ''
-        },
+      
     ];
 
     let post_html = [];
