@@ -74,7 +74,7 @@ function blog_posts() {
     }
 
     // for the more posts link
-    let post_template = `
+  /*  let post_template = `
     <div class="blog-post more-blogs" onclick="blog_link_click('https://sieblogt.github.io');">
 
         <div class="blog-link">
@@ -89,7 +89,7 @@ function blog_posts() {
     </div>
     `; 
 
-    post_html.push(post_template);
+    post_html.push(post_template); */
 
     $('#rss-feeds').html(post_html);
 
