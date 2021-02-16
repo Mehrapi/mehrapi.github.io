@@ -31,7 +31,7 @@ function blog_posts() {
         },
         {
             url: 'https://sieblogt.github.io/directory/',
-            title: ' Siehe meine Blogposts'
+            title: ''
         },
         {
             url: 'https://sieblogt.github.io/directory/',
@@ -79,7 +79,7 @@ function blog_posts() {
 
         <div class="blog-link">
 
-            <h3><a href="https://sieblogt.github.io"></a>Blog besuchen für mehr Artikel</h3>            
+            <h3><a href="https://sieblogt.github.io"></a></h3>            
 
         </div>
 
