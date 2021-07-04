@@ -1,6 +1,6 @@
 # Hallo 👋!
 
-**Wilkommen auf meiner persönlichen Webseite 👌!**
+**Wilkommen auf meines persönlichen Webseite Repository 👌!**
 
 
 ☞ ☞ [Hier](https://mehrapi.github.io) können Sie  über meine Projekte erfahren.
